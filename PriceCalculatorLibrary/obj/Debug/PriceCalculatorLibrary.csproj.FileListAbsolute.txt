@@ -1,0 +1,5 @@
+c:\users\francois\documents\visual studio 2013\Projects\Win.PriceCalculator\PriceCalculatorLibrary\bin\Debug\PriceCalculatorLibrary.dll
+c:\users\francois\documents\visual studio 2013\Projects\Win.PriceCalculator\PriceCalculatorLibrary\bin\Debug\PriceCalculatorLibrary.pdb
+c:\users\francois\documents\visual studio 2013\Projects\Win.PriceCalculator\PriceCalculatorLibrary\obj\Debug\PriceCalculatorLibrary.csprojResolveAssemblyReference.cache
+c:\users\francois\documents\visual studio 2013\Projects\Win.PriceCalculator\PriceCalculatorLibrary\obj\Debug\PriceCalculatorLibrary.dll
+c:\users\francois\documents\visual studio 2013\Projects\Win.PriceCalculator\PriceCalculatorLibrary\obj\Debug\PriceCalculatorLibrary.pdb

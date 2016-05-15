@@ -1,0 +1,11 @@
+c:\users\francois\documents\visual studio 2013\Projects\Win.PriceCalculator\Win.PriceCalculator\bin\Debug\Win.PriceCalculator.exe.config
+c:\users\francois\documents\visual studio 2013\Projects\Win.PriceCalculator\Win.PriceCalculator\bin\Debug\Win.PriceCalculator.exe
+c:\users\francois\documents\visual studio 2013\Projects\Win.PriceCalculator\Win.PriceCalculator\bin\Debug\Win.PriceCalculator.pdb
+c:\users\francois\documents\visual studio 2013\Projects\Win.PriceCalculator\Win.PriceCalculator\obj\Debug\Win.PriceCalculator.csprojResolveAssemblyReference.cache
+c:\users\francois\documents\visual studio 2013\Projects\Win.PriceCalculator\Win.PriceCalculator\obj\Debug\Win.PriceCalculator.frmPriceCalc.resources
+c:\users\francois\documents\visual studio 2013\Projects\Win.PriceCalculator\Win.PriceCalculator\obj\Debug\Win.PriceCalculator.Properties.Resources.resources
+c:\users\francois\documents\visual studio 2013\Projects\Win.PriceCalculator\Win.PriceCalculator\obj\Debug\Win.PriceCalculator.csproj.GenerateResource.Cache
+c:\users\francois\documents\visual studio 2013\Projects\Win.PriceCalculator\Win.PriceCalculator\obj\Debug\Win.PriceCalculator.exe
+c:\users\francois\documents\visual studio 2013\Projects\Win.PriceCalculator\Win.PriceCalculator\obj\Debug\Win.PriceCalculator.pdb
+C:\Users\francois\Documents\Visual Studio 2013\Projects\Win.PriceCalculator\Win.PriceCalculator\bin\Debug\PriceCalculatorLibrary.dll
+C:\Users\francois\Documents\Visual Studio 2013\Projects\Win.PriceCalculator\Win.PriceCalculator\bin\Debug\PriceCalculatorLibrary.pdb

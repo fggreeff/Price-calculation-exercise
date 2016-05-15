@@ -1,0 +1,9 @@
+c:\users\francois\documents\visual studio 2013\Projects\Win.PriceCalculator\PriceCalculator.Library.Test\bin\Debug\PriceCalculator.Library.Test.dll
+c:\users\francois\documents\visual studio 2013\Projects\Win.PriceCalculator\PriceCalculator.Library.Test\bin\Debug\PriceCalculator.Library.Test.pdb
+c:\users\francois\documents\visual studio 2013\Projects\Win.PriceCalculator\PriceCalculator.Library.Test\bin\Debug\nunit.framework.dll
+c:\users\francois\documents\visual studio 2013\Projects\Win.PriceCalculator\PriceCalculator.Library.Test\bin\Debug\PriceCalculatorLibrary.dll
+c:\users\francois\documents\visual studio 2013\Projects\Win.PriceCalculator\PriceCalculator.Library.Test\bin\Debug\PriceCalculatorLibrary.pdb
+c:\users\francois\documents\visual studio 2013\Projects\Win.PriceCalculator\PriceCalculator.Library.Test\bin\Debug\nunit.framework.xml
+c:\users\francois\documents\visual studio 2013\Projects\Win.PriceCalculator\PriceCalculator.Library.Test\obj\Debug\PriceCalculator.Library.Test.csprojResolveAssemblyReference.cache
+c:\users\francois\documents\visual studio 2013\Projects\Win.PriceCalculator\PriceCalculator.Library.Test\obj\Debug\PriceCalculator.Library.Test.dll
+c:\users\francois\documents\visual studio 2013\Projects\Win.PriceCalculator\PriceCalculator.Library.Test\obj\Debug\PriceCalculator.Library.Test.pdb
